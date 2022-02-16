@@ -1,1 +1,1 @@
-"# mono" 
+Test project for mono.
